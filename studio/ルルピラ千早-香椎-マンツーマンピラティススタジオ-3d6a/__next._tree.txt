@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
+:HL["/_next/static/chunks/0cx1cbzzztl_2.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"studio","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E3%83%AB%E3%83%AB%E3%83%94%E3%83%A9%E5%8D%83%E6%97%A9-%E9%A6%99%E6%A4%8E-%E3%83%9E%E3%83%B3%E3%83%84%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%94%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA-3d6a","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"CrYsXwmc2N4qVLp6mI8Nf"}

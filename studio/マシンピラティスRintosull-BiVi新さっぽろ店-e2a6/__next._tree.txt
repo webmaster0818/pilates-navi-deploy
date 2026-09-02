@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
+:HL["/_next/static/chunks/0cx1cbzzztl_2.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"studio","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%94%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9Rintosull-BiVi%E6%96%B0%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%BA%97-e2a6","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"CrYsXwmc2N4qVLp6mI8Nf"}

@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
+:HL["/_next/static/chunks/0cx1cbzzztl_2.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"studio","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"La-pilates-%E4%BB%A3%E5%AE%98%E5%B1%B1%E5%BA%97-1976","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"CrYsXwmc2N4qVLp6mI8Nf"}
