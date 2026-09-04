@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
-:HL["/_next/static/chunks/0cx1cbzzztl_2.css","style"]
+:HL["/_next/static/chunks/0x8gh-ql4i6ft.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"studio","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"Paw-women-s-fitness-%E9%87%91%E6%B2%A2-%E5%A5%B3%E6%80%A7%E5%B0%82%E7%94%A824%E6%99%82%E9%96%93%E3%82%B8%E3%83%A0-%E3%83%94%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9-00de","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"CrYsXwmc2N4qVLp6mI8Nf"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"studio","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"Paw-women-s-fitness-%E9%87%91%E6%B2%A2-%E5%A5%B3%E6%80%A7%E5%B0%82%E7%94%A824%E6%99%82%E9%96%93%E3%82%B8%E3%83%A0-%E3%83%94%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9-00de","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"9ndF4eCjbKZVv9JESaX7G"}
