@@ -2,4 +2,4 @@
 :HL["/_next/static/chunks/0pip2ppq8.m51.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.04u2vthbg~.2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/d8ea5540f28d37db-s.0g2e0b6brln.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"studio","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"TOKI-PILATES-STUDIO%E3%83%BCWEST-STUDIO%E3%83%BC-2f54","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"pBCTzDl38OaZ5mDZvFptr"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"studio","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"TOKI-PILATES-STUDIO%E3%83%BCWEST-STUDIO%E3%83%BC-2f54","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"H0VacQ8FO5RdwrXt6k6Qd"}
